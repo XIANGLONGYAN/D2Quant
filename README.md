@@ -4,9 +4,6 @@
   <a href="">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&logoSvg">
   </a>
-  <a href="https://github.com/XIANGLONGYAN/D2Quant/releases/tag/paper">
-    <img src="https://img.shields.io/github/downloads/XIANGLONGYAN/D2Quant/total.svg"> -->
-  </a>
   <a href="[https://github.com/XIANGLONGYAN/D2Quant]">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=XIANGLONGYAN.D2Quant&right_color=violet">
   </a>
