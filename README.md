@@ -1,7 +1,7 @@
 #  D<sup>2</sup>Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs
 
 <p align="center">
-  <a href="">
+  <a href="https://arxiv.org/abs/2602.02546v1">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&logoSvg">
   </a>
   <a href="[https://github.com/XIANGLONGYAN/D2Quant]">
@@ -58,7 +58,12 @@
 If you find the code helpful in your research or work, please cite the following paper.
 
 ```
-
+@article{yan2026d,
+  title={D $^2$ Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs},
+  author={Yan, Xianglong and Bao, ChengZhu and Li, Zhiteng and Zhang, Tianao and Zhang, Shaoqiu and Xie, Ruobing and Sun, Samm and Zhang, Yulun},
+  journal={arXiv preprint arXiv:2602.02546},
+  year={2026}
+}
 ```
 
 ## 💡 Acknowledgements
